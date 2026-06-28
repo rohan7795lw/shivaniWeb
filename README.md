@@ -1,6 +1,6 @@
-# Dr. Shivani Battulwar - MDS Dentist Website
+# Dr. Shivani Battulwar - BDS Dentist Website
 
-A modern, responsive website for Dr. Shivani Battulwar, Master of Dental Surgery (MDS).
+A modern, responsive website for Dr. Shivani Battulwar, Bachelor of Dental Surgery (BDS).
 
 ## Features
 
@@ -100,4 +100,4 @@ shivaniWeb/
 
 ## License
 
-© 2024 Dr. Shivani Battulwar, MDS. All rights reserved.
+© 2024 Dr. Shivani Battulwar, BDS. All rights reserved.
